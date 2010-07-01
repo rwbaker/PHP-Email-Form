@@ -10,4 +10,6 @@ This was designed to be my replacement for the antiquated CGIemail.
 
 The form submits to `thankyou/` (thankyou/index.php) for a cleaner URL.  The Thank You page template is at the bottom of the PHP page.
 
+[Demo](http://rwbaker.com/demos/php-email-form/)
+
 95% of the PHP script is based on [Form To Email](http://formtoemail.com) by Charles Sweeney.  His pro version adds a lot of extra features if you're looking for something beefier.
